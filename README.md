@@ -1,6 +1,8 @@
 # Image-Classification-Using-TensorFlow
 
-This Project creates an image classifier using a keras.Sequential model on a dataset of morethan 3500 flower pictures.
+This Project creates an image classifier using a keras.Sequential model on a dataset of morethan 25k images of size 150x150 distributed under 6 categories.
+Building,Forest,Sea,Street,Glacier,Mountain
+
 This will follow a basic machine learning workflow:
 
 Examine and understand data
@@ -10,5 +12,6 @@ Train the model
 Test the model
 Improve the model and repeat the process
 
+Data : https://www.kaggle.com/puneet6060/intel-image-classification
 
-Implemented Keras TensorFlow Package for Intel Image Classification for Image Scene Classification of Multiclass
+
