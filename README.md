@@ -14,4 +14,7 @@ Improve the model and repeat the process
 
 Data : https://www.kaggle.com/puneet6060/intel-image-classification
 
+Results
+<img src='Capture4.PNG'/>
+
 
